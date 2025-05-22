@@ -1,4 +1,4 @@
-Repositori ini berisi **tugas kuliah** yang bertujuan untuk mengembangkan model **CNN menggunakan transfer learning** dengan memanfaatkan pretrained model dan menyusun ulang arsitektur **fully connected layer** untuk klasifikasi multilabel.
+Repositori ini bertujuan untuk mengembangkan model **CNN menggunakan transfer learning** dengan memanfaatkan pretrained model dan menyusun ulang arsitektur **fully connected layer** untuk klasifikasi multilabel.
 
 Eksperimen dilakukan dengan **tuning hyperparameter** seperti struktur dense layer, epoch, batch size, fungsi aktivasi, learning rate, dan optimizer.
 
